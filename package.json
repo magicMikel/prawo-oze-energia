@@ -1,0 +1,25 @@
+{
+  "name": "prawo-do-energii",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-remark": "^6.13.0",
+    "gatsby-plugin-postcss": "^6.13.0",
+    "gatsby-plugin-sitemap": "^6.13.0",
+    "gatsby-plugin-robots-txt": "^1.8.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
