@@ -19,6 +19,7 @@ const Layout = ({ children, title, description, image, date, type = 'website' })
         <meta property="og:site_name" content={siteName} />
         <meta property="og:locale" content="pl_PL" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="google-site-verification" content="Qb9Zh4zrvp92rgy8GObXKHf9X49UTtPNEdiXeV92ivM" />
         {date && <meta property="article:published_time" content={date} />}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
