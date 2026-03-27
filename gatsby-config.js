@@ -25,13 +25,6 @@ module.exports = {
         createLinkInHead: true,
       },
     },
-    {
-      resolve: 'gatsby-plugin-robots-txt',
-      options: {
-        host: 'https://prawodoenergii.pl',
-        sitemap: 'https://prawodoenergii.pl/sitemap/sitemap-index.xml',
-        policy: [{ userAgent: '*', allow: '/' }],
-      },
-    },
+
   ],
 };
