@@ -3,3 +3,4 @@ public/
 .cache/
 .env
 .env.local
+.github/workflows/
