@@ -13,33 +13,37 @@ tags:
 
 ## Definicja problemu
 
-W obliczu rosnącego zapotrzebowania na energię oraz negatywnych skutków zmian klimatycznych, inwestycje w odnawialne źródła energii (OZE) stają się kluczowe dla zrównoważonego rozwoju. Program FEnIKS 2021–2027, finansowany ze środków unijnych, stwarza możliwość pozyskania dotacji na rozwój OZE dla firm oraz samorządów. Termin naboru, który kończy się 30 kwietnia 2026 roku, stanowi istotny krok w kierunku transformacji energetycznej, jednak wiele podmiotów nadal nie zdaje sobie sprawy z korzyści płynących z tego programu.
+Zmiany klimatyczne oraz rosnące ceny energii skłaniają przedsiębiorstwa i samorządy do poszukiwania alternatywnych źródeł energii. Program „Rozwój OZE”, finansowany z FEnIKS 2021–2027, ma na celu wsparcie inwestycji w odnawialne źródła energii (OZE). Nabór trwa do końca kwietnia 2026 roku, co stwarza wyjątkową okazję dla jednostek publicznych oraz przedsiębiorstw do realizacji projektów, które mogą przyczynić się do redukcji emisji CO2 oraz zwiększenia niezależności energetycznej.
 
 ## Mechanizm działania z liczbami/parametrami
 
-FEnIKS oferuje finansowanie w wysokości do 85% kwalifikowanych kosztów inwestycji w OZE. Średnia wartość dotacji dla pojedynczego projektu oscyluje wokół 2 milionów złotych, co przekłada się na wsparcie dla projektów rzędu 2,35 miliona złotych. Program obejmuje różnorodne technologie OZE, takie jak fotowoltaika, energia wiatrowa czy biogazownie. 
+Program „Rozwój OZE” przynosi wiele korzyści, w tym dotacje, które mogą pokryć do 85% kosztów kwalifikowanych inwestycji. Przykładowe technologie objęte programem to:
 
-Przykładowe parametry techniczne dla instalacji fotowoltaicznej o mocy 100 kW to:
-- **Moc instalacji**: 100 kW
-- **Średnia wydajność**: 1000 kWh/kW/rok
-- **Koszt instalacji**: 400 000 PLN
-- **Dotacja**: 340 000 PLN (85% kosztów kwalifikowanych)
-- **Czas zwrotu**: 5-7 lat
+- **Fotowoltaika**: instalacje o mocy od 1 kWp do 100 kWp.
+- **Wiatraki**: instalacje o mocy od 10 kW do 1 MW.
+- **Biomasa**: instalacje do spalania biomasy o mocy do 1 MW.
 
-Dzięki wdrożeniu takiej instalacji firma lub samorząd może osiągnąć oszczędności na rachunkach za energię na poziomie około 40 000 PLN rocznie, co w dłuższej perspektywie znacząco wpływa na rentowność inwestycji.
+Dzięki programowi, przedsiębiorstwa mogą ubiegać się o wsparcie dla projektów o łącznej wartości nawet 5 mln zł. Dla przykładu, inwestycja wynosząca 2 mln zł w instalację fotowoltaiczną, przy dotacji na poziomie 85%, obniża całkowity koszt do 300 tys. zł po uwzględnieniu wsparcia. 
+Parametry:
+
+- **Koszt całkowity instalacji**: 2 000 000 zł
+- **Kwota dotacji (85%)**: 1 700 000 zł
+- **Koszt po dotacji**: 300 000 zł
+
+Takie wsparcie finansowe znacznie zwiększa atrakcyjność inwestycji w OZE, co może przyczynić się do transformacji energetycznej i zmniejszenia zależności od paliw kopalnych.
 
 ## Praktyczne wnioski
 
-W kontekście rosnącej inflacji i kosztów energii, program FEnIKS stanowi nie tylko szansę na pozyskanie wsparcia finansowego, ale również na skorzystanie z mechanizmu net-billingu. W ramach net-billingu, nadwyżki energii wyprodukowanej przez instalację OZE mogą być sprzedawane do sieci, co generuje dodatkowe przychody dla inwestorów. Oznacza to, że firmy i samorządy mogą nie tylko pokrywać swoje zapotrzebowanie energetyczne, ale także zarabiać na nadwyżkach energii, co czyni inwestycje w OZE jeszcze bardziej opłacalnymi.
+Transformacja energetyczna nie tylko przynosi korzyści środowiskowe, ale również ekonomiczne. Inwestycje w OZE mogą obniżyć rachunki za energię oraz zwiększyć wartość nieruchomości. Wiele firm oraz samorządów, które wcześniej obawiały się dużych kosztów początkowych, teraz widzi możliwość sfinansowania projektów przy pomocy dotacji. Warto również zwrócić uwagę na możliwość integracji OZE z inteligentnymi systemami zarządzania energią, co pozwala na zwiększenie efektywności energetycznej.
 
 ## Kiedy się opłaca — tabela 3 scenariuszy
 
-| Scenariusz                       | Koszt inwestycji (PLN) | Dotacja (PLN) | Oszczędności roczne (PLN) | Czas zwrotu (lata) |
-|----------------------------------|------------------------|----------------|--------------------------|--------------------|
-| Mała instalacja (50 kW)         | 200 000                | 170 000        | 20 000                   | 1.5                |
-| Średnia instalacja (100 kW)     | 400 000                | 340 000        | 40 000                   | 2.5                |
-| Duża instalacja (200 kW)        | 800 000                | 680 000        | 80 000                   | 3.5                |
+| Scenariusz                    | Koszt inwestycji | Dotacja (85%) | Koszt po dotacji | Oszczędności roczne | ROI (po 5 latach) |
+|-------------------------------|------------------|----------------|-------------------|---------------------|---------------------|
+| Instalacja fotowoltaiczna     | 2 000 000 zł     | 1 700 000 zł   | 300 000 zł        | 120 000 zł          | 20%                 |
+| Turbina wiatrowa              | 1 500 000 zł     | 1 275 000 zł   | 225 000 zł        | 100 000 zł          | 22%                 |
+| System biomasowy              | 1 000 000 zł     | 850 000 zł     | 150 000 zł        | 80 000 zł           | 15%                 |
 
-Wnioski płynące z analizy pokazują, że nawet małe inwestycje w OZE mają krótki czas zwrotu i mogą przynieść znaczące oszczędności, co czyni je opłacalnymi dla różnych podmiotów.
+Tabela powyżej przedstawia różne scenariusze inwestycyjne oraz potencjalne korzyści finansowe wynikające z dotacji w ramach programu FEnIKS. 
 
-Program FEnIKS
+Program „Rozwój OZE” to
