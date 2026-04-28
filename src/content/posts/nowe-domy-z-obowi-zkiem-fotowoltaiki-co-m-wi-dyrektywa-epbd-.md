@@ -13,31 +13,34 @@ tags:
 
 ## Definicja problemu
 
-W kontekście rosnących potrzeb energetycznych oraz walki ze zmianami klimatycznymi, Unia Europejska przyjęła dyrektywę EPBD (Energy Performance of Buildings Directive), która nakłada obowiązek instalacji systemów OZE, w tym fotowoltaiki, w nowych budynkach. Od 2026 roku wszystkie nowe domy w Polsce będą zobowiązane do wyposażenia się w instalacje fotowoltaiczne. Zmiany te wzbudziły wiele kontrowersji, a niektóre nagłówki sugerowały, że bez montażu paneli słonecznych nie będzie można zamieszkać w nowym budynku. Warto zatem przyjrzeć się temu zagadnieniu bliżej.
+W obliczu globalnych wyzwań związanych z zmianami klimatycznymi oraz rosnącymi cenami energii, Unia Europejska wprowadza szereg regulacji mających na celu zwiększenie efektywności energetycznej budynków. Kluczowym dokumentem w tym zakresie jest dyrektywa EPBD (Energy Performance of Buildings Directive), która nakłada na państwa członkowskie obowiązek wprowadzenia systemów odnawialnych źródeł energii, w tym fotowoltaiki, w nowo budowanych obiektach. Od 2026 roku każdy nowy budynek w Polsce będzie musiał być wyposażony w instalację fotowoltaiczną. Zmiany te wywołują wiele pytań i wątpliwości, zarówno wśród inwestorów, jak i właścicieli gruntów.
 
 ## Mechanizm działania z liczbami/parametrami
 
-Dyrektywa EPBD ma na celu osiągnięcie neutralności klimatycznej przez wprowadzenie bardziej rygorystycznych norm dotyczących efektywności energetycznej budynków. Nowe wymagania na poziomie UE wskazują, że:
+Zgodnie z dyrektywą EPBD, nowo budowane domy będą musiały spełniać określone standardy energetyczne, co oznacza, że będą musiały generować część potrzebnej energii z OZE. Przyjmuje się, że przeciętna instalacja fotowoltaiczna dla domu jednorodzinnego o powierzchni 150 m², z dachem nachylonym pod kątem 30°, powinna mieć moc około 6 kWp. 
 
-- **Do 2030 roku** budynki muszą osiągnąć zerowy poziom emisji CO2.
-- **Do 2050 roku** każdy nowy budynek powinien być neutralny pod względem zużycia energii, co oznacza, że musi produkować tyle energii, ile zużywa.
+**Parametry techniczne instalacji:**
 
-W kontekście fotowoltaiki, średnia powierzchnia dachu w nowym budynku jednorodzinnym wynosi około **100 m²**. Przy efektywności paneli fotowoltaicznych na poziomie około **15-20%**, zainstalowane moduły mogą generować rocznie od **7 kWh/m²** do **15 kWh/m²**. Zatem przy zastosowaniu 10 paneli o mocy 300 W każdy, można uzyskać roczną produkcję energii elektrycznej wynoszącą około **3 600 kWh**. 
+- **Moc: 6 kWp**
+- **Średnia produkcja energii: 6000 kWh/rok**
+- **Cena instalacji: 30 000 PLN**
+- **Dofinansowanie (np. program „Mój Prąd”): 5 000 PLN**
+- **Okres zwrotu inwestycji: 5-7 lat**
 
-Dla przeciętnego gospodarstwa domowego, które zużywa około **2 600 kWh** rocznie, taka instalacja nie tylko pokryje bieżące potrzeby, ale także umożliwi sprzedaż nadwyżek energii do sieci.
+System fotowoltaiczny będzie w stanie pokryć znaczną część zapotrzebowania na energię elektryczną gospodarstwa domowego, a nadwyżki będą mogły być zasilane do sieci, co dodatkowo zwiększa oszczędności. Warto także zaznaczyć, że instalacja OZE przyczynia się do niezależności energetycznej oraz redukcji emisji CO₂, co jest niezwykle istotne w kontekście walki z globalnym ociepleniem.
 
 ## Praktyczne wnioski
 
-Wprowadzenie obowiązku instalacji systemów OZE, w tym fotowoltaiki, przyczynia się do transformacji energetycznej, gdzie istotna jest produkcja energii z odnawialnych źródeł. Zmiany te nie tylko zmniejszają ślad węglowy budynków, ale również wpływają na obniżenie kosztów eksploatacji. Dotacje, ulgi podatkowe oraz programy wsparcia mogą dodatkowo zwiększyć dostępność takich rozwiązań dla inwestorów. 
+Zgodność z dyrektywą EPBD wymusi na inwestorach i deweloperach stosowanie odnawialnych źródeł energii, co w konsekwencji przyczyni się do zmniejszenia kosztów eksploatacji budynków. Dla właścicieli domów oznacza to zwiększenie niezależności energetycznej, co jest szczególnie ważne w czasach niestabilności na rynku energii. Warto dodać, że sama instalacja paneli słonecznych może zwiększyć wartość nieruchomości, co w dłuższej perspektywie przyniesie dodatkowe korzyści finansowe. 
 
-Warto zauważyć, że nie tylko oszczędności energii są ważne, ale także zyski z potencjalnej sprzedaży nadwyżek energii. Dzięki unijnym regulacjom, Polska ma szansę na dynamiczny rozwój sektora energii odnawialnej, co może znacząco poprawić jakość powietrza oraz zwiększyć niezależność energetyczną kraju.
+Zachęcamy do skorzystania z narzędzi takich jak [EcoAudyt](https://ecoaudyt.app/kalkulator), aby oszacować potencjalne oszczędności oraz zyski związane z inwestycją w odnawialne źródła energii.
 
 ## Kiedy się opłaca — tabela 3 scenariuszy
 
-| Scenariusz           | Koszt instalacji (PLN) | Roczne oszczędności (PLN) | Czas zwrotu (lata) |
-|----------------------|-------------------------|----------------------------|---------------------|
-| Dom jednorodzinny    | 25 000                  | 3 000                      | 8.3                 |
-| Dom wielorodzinny    | 50 000                  | 6 000                      | 8.3                 |
-| Budynek komercyjny   | 100 000                 | 12 000                     | 8.3                 |
+| Scenariusz                      | Koszt instalacji (zł) | Dofinansowanie (zł) | Okres zwrotu (lata) | Oszczędności na rachunkach (zł/rok) |
+|----------------------------------|-----------------------|----------------------|---------------------|-------------------------------------|
+| Wysoka efektywność energetyczna  | 30 000                | 5 000                | 5                   | 6 000                               |
+| Średnia efektywność energetyczna | 30 000                |
 
-W powyższej tabeli przedstawiono różne scenariusze dotyczące koszt
+---
+*Dodatkowe źródło: [audyt energetyczny](https://pl.wikipedia.org/wiki/Audyt_energetyczny)*
