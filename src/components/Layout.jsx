@@ -41,6 +41,17 @@ const Layout = ({ children, title, description, image, date, type = 'website' })
           <div className="max-w-6xl mx-auto px-4 text-center text-sm">
             <p className="text-white font-semibold mb-2">PrawoOZE – prawodoenergii.pl</p>
             <p>Portal prawny o odnawialnych źródłach energii w Polsce</p>
+            <div className="mt-6 pt-4 border-t border-gray-700">
+              <p className="text-gray-500 text-xs uppercase tracking-wider mb-3">Sieć Portali OZE</p>
+              <div className="flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm">
+                <a href="https://ecoaudyt.app" className="text-blue-400 hover:text-blue-300 font-semibold transition-colors">EcoAudyt.app – Audyt Energetyczny</a>
+                <a href="https://czystepowietrze-dotacje.pl" className="hover:text-white transition-colors">CzystePowietrze-Dotacje.pl</a>
+                <a href="https://portal-oze.pl" className="hover:text-white transition-colors">Portal-OZE.pl</a>
+                <a href="https://rynek-oze.pl" className="hover:text-white transition-colors">Rynek-OZE.pl</a>
+                <a href="https://solarfinanse.pl" className="hover:text-white transition-colors">SolarFinanse.pl</a>
+                <a href="https://solarfinance.pl" className="hover:text-white transition-colors">SolarFinance.pl</a>
+              </div>
+            </div>
             <p className="mt-4">&copy; 2026 prawodoenergii.pl</p>
           </div>
         </footer>
