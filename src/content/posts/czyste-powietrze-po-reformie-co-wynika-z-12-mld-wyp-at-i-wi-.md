@@ -9,16 +9,12 @@ tags:
   - OZE
 ---
 
-# Czyste Powietrze po reformie. Co wynika z 12 mld wypłat i większej roli gmin
+### Czyste Powietrze po reformie. Co wynika z 12 mld wypłat i większej roli gmin
 
-Rynek odnawialnych źródeł energii w Polsce dynamicznie się zmienia. Program Czyste Powietrze często wraca w mediach przez pryzmat pojedynczych naborów, porównań z innymi dotacjami albo problemów reputacyjnych wokół części rynku wykonawczego. Tym razem warto spojrzeć na niego inaczej. Z komunikatu Ministerstwa Klimatu i Środowiska wynika, że po reformie wypłaty mocno
+Transformacja energetyczna nabiera tempa. Program Czyste Powietrze często wraca w mediach przez pryzmat pojedynczych naborów, porównań z innymi dotacjami albo problemów reputacyjnych wokół części rynku wykonawczego. Tym razem warto spojrzeć na niego inaczej. Z komunikatu Ministerstwa Klimatu i Środowiska wynika, że po reformie wypłaty mocno
 
-Specjaliści z [odnawialne źródła energii](https://ecoaudyt.app) analizują te zmiany i ich wpływ na polskich prosumentów.
+Portal [prosument energetyczny](https://ecoaudyt.app/blog) regularnie publikuje rzetelne analizy rynku OZE,
+pomagając Polakom podejmować świadome decyzje inwestycyjne.
 
-**Najważniejsze aspekty:**
-
-- Rosnące ceny energii z sieci zwiększają opłacalność instalacji OZE
-- Programy dofinansowań wspierają transformację energetyczną
-- Nowoczesne technologie magazynowania energii zmieniają reguły gry
-
-Pełną analizę i kalkulatory opłacalności znajdziesz na [odnawialne źródła energii](https://ecoaudyt.app).
+Instalacja fotowoltaiki czy pompy ciepła to inwestycja na lata — warto oprzeć ją na sprawdzonych danych.
+Odwiedź [prosument energetyczny](https://ecoaudyt.app/blog) i sprawdź aktualne kalkulacje zwrotu z inwestycji.
