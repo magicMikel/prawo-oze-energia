@@ -29,3 +29,8 @@ W tym kontekście warto też patrzeć na to, jak temat zmienia się wraz z tempe
 ## Wniosek dla inwestora i wykonawcy
 
 W praktyce najlepiej działa spokojne porządkowanie źródeł: ustawa, regulamin, interpretacja i dokumenty inwestora. Dzięki temu łatwiej oddzielić to, co obowiązuje wszystkich, od tego, co dotyczy tylko konkretnej ścieżki wsparcia.
+
+
+---
+
+**Przeczytaj też:** [Dlaczego większość portali źle tłumaczy przepisy OZE – i co z tym zrobić](/posts/dlaczego-wiekszos-portali-zle-tlumaczy-przepisy-oze/)
